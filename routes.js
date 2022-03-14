@@ -52,5 +52,4 @@ const requesthandler = (req, res) => {
 // module.exports.someText = 'Some hard coded text';
 
 exports.handler = requesthandler;
-
 exports.someText = 'Some hard coded text';  
